@@ -60,7 +60,7 @@ All data is real and no simulation was used.
 ## Setup
 
 bash
-git clone https://github.com/yourusername/honeypot-project.git
+git clone https://github.com/serdarumut/honeypot-project.git
 cd honeypot-project
 docker-compose up -d
 
